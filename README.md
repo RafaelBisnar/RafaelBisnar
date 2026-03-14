@@ -9,9 +9,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/3wqMxx4VAkByM/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/UvDvPrWlZqIFF664KI/giphy.gif" width="150" />
+<div align="left">
+  <img src="https://media1.giphy.com/media/3wqMxx4VAkByM/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/UvDvPrWlZqIFF664KI/giphy.gif" width="200" />
 </div>
 
 ---
