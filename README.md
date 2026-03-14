@@ -32,20 +32,8 @@ BSIT
 ---
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/26vUGuV1WxhbkEKZy/giphy.gif"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelBisnar&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelBisnar&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelBisnar/RafaelBisnar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelBisnar/RafaelBisnar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaelBisnar/RafaelBisnar/output/pacman-contribution-graph.svg">
-</picture>
