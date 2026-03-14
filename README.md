@@ -9,6 +9,6 @@
 
 ---
 
-![lebron-chalk](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![lebron-chalk](https://media1.giphy.com/media/3wqMxx4VAkByM/giphy.gif)
 
 ---
